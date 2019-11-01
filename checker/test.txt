@@ -1,0 +1,6 @@
+(lldb) target create "checker"
+Current executable set to 'checker' (x86_64).
+(lldb) settings set -- target.run-args  "../sortie2.txt"
+^C
+^C
+
