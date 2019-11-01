@@ -49,7 +49,7 @@ L9-5 L10-5
 ## Installation
 `make`
 
-##Run
+## Run
 
 `./lem-in < map`
 
